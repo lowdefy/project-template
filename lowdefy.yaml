@@ -1,5 +1,8 @@
 version: null
 
+config:
+  homePageId: welcome
+
 menus:
   - id: default
     links:
