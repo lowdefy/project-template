@@ -19,20 +19,22 @@ areas:
               icon:
                 name: HeartTwoTone
                 color: '#f00'
-            blocks:
-              - id: docs_button
-                type: Button
-                properties:
-                  size: large
-                  title: Let's build something
-                  color: '#1890ff'
-                actions:
-                  onClick:
-                    - id: link_to_docs
-                      type: Link
-                      params:
-                        url: https://docs.lowdefy.com
-                        newWindow: true
+            areas:
+              extra:
+                blocks:
+                  - id: docs_button
+                    type: Button
+                    properties:
+                      size: large
+                      title: Let's build something
+                      color: '#1890ff'
+                    actions:
+                      onClick:
+                        - id: link_to_docs
+                          type: Link
+                          params:
+                            url: https://docs.lowdefy.com
+                            newWindow: true
   footer:
     blocks:
       - id: footer
