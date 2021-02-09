@@ -28,7 +28,7 @@ areas:
                       size: large
                       title: Let's build something
                       color: '#1890ff'
-                    actions:
+                    events:
                       onClick:
                         - id: link_to_docs
                           type: Link
