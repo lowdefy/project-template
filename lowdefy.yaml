@@ -1,5 +1,5 @@
 name: lowdefy-project-template
-lowdefy: 3.7.0
+lowdefy: 3.10.1
 
 config:
   homePageId: welcome
