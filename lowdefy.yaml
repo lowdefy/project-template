@@ -1,5 +1,6 @@
 name: lowdefy-project-template
 lowdefy: 3.10.1
+licence: MIT
 
 config:
   homePageId: welcome
