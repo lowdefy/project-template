@@ -15,6 +15,10 @@ This will start a development server running on you local machine.
 
 To learn how to build apps with Lowdefy, follow the [tutorial](https://docs.lowdefy.com/tutorial-start) at https://docs.lowdefy.com.
 
+## Deploying this app
+
+This simplest solution is to deploy this app to [Netlify](https://netlify.com). See [the Netlify Deployment instructions](https://docs.lowdefy.com/deployment) for more detail on how to deploy a Lowdefy app to Netlify.
+
 ## More Lowdefy resources
 
 - Getting started with Lowdefy - https://docs.lowdefy.com/tutorial-start
